@@ -48,8 +48,7 @@ The assets and documents in this repository can be used for:
 
 ---
 
-## 🔹 About ONLIVE
-**ONLIVE – Stream the Future**  
-ONLIVE is a decentralized streaming platform powered by the ON Token,  
-providing censorship-free access to live and on-demand content, NFTs,  
-and a new ecosystem for creators and users.
+## 🔹 About ON TV
+ON TV is the first decentralized, global crypto television channel, powered by the ON Token.
+It delivers censorship-free access to 24/7 live broadcasting, including real-time cryptocurrency market data, breaking financial news, and educational programs for traders and investors.
+Unlike traditional media, ON TV requires no registration, no subscriptions, and no personal data – it is open, anonymous, and accessible worldwide as the Web3 alternative to Bloomberg TV.
