@@ -41,7 +41,7 @@ Independent audit report for the ON Token smart contract:
 
 ## 🔹 Usage
 The assets and documents in this repository can be used for:
-- Polygonscan / Etherscan Token Info Update  
+- Token Info Update  
 - Wallet integrations (MetaMask, TrustWallet, etc.)  
 - Exchange and listing submissions  
 - Marketing and documentation purposes  
