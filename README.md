@@ -13,4 +13,5 @@ The logo can be used for:
 - Exchanges and listings
 
 ### Direct Logo Link
-[Click here for the raw SVG](./logo.svg)
+[![ON Token Logo](./LOGO.svg)](https://raw.githubusercontent.com/ONTOKEN/ontoken-assets/refs/heads/main/LOGO.svg)
+
