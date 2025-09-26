@@ -8,7 +8,7 @@ This repository contains the official assets for the ON Token (ONLIVE).
 
 ## Usage
 The logo can be used for:
-- Polygonscan / Etherscan Token Info Update
+- Polygonscan Token Info Update
 - Wallet integrations (TrustWallet, MetaMask, etc.)
 - Exchanges and listings
 
