@@ -1,54 +1,136 @@
-# ON Token (ONLIVE) – Official Assets
+# 🪙 ON Token (ONLIVE) — Official Documentation & Brand Assets  
 
-This repository contains the official assets and documentation for the **ON Token (ONLIVE)**,  
-the native token of the ONLIVE ecosystem.
+This repository contains the **official documentation, audited smart contract, and visual brand assets**  
+for the **ON Token (ONLIVE)** — the digital currency that powers the decentralized **ONLIVE ecosystem**.  
 
----
-
-## 🔹 Token Information
-- **Name:** ON Token  
-- **Symbol:** ON  
-- **Network:** Polygon (ERC-20)  
-- **Contract Address:** `0x14F74e11F0d9D469A4c9D686cfB18a771b31D94f`  
-- **Decimals:** 18  
+ONLIVE represents a new era of Web3 media, combining blockchain technology, decentralized finance,  
+and digital entertainment in one unified ecosystem.  
 
 ---
 
-## 🔹 Logo
-Official 32x32 SVG logo for wallet integrations, block explorers and exchange listings.  
+## 🔹 Token Overview  
 
-Preview:  
-<img src="./LOGO.svg" width="64" height="64" alt="ON Token Logo">  
+| Field | Details |
+|-------|----------|
+| **Token Name:** | ON Token |
+| **Symbol:** | ONLIVE |
+| **Blockchain Network:** | Polygon (ERC-20 Standard) |
+| **Contract Address:** | `0x14F74e11F8d9D04694Ac9D686cfB188a771b31D94` |
+| **Total Supply:** | 3,000,000,000 ON |
+| **Decimals:** | 18 |
+| **Launch Date:** | November 2025 |
+| **Audit Provider:** | Cyberscope (International Smart Contract Auditing) |
+| **Liquidity Lock:** | Locked until January 1, 2126 |
 
-Direct link for explorers:  
-[Raw SVG Logo](https://raw.githubusercontent.com/ONTOKEN/ontoken-assets/main/LOGO.svg)
-
----
-
-## 🔹 White Paper
-The official ON Token (ONLIVE) White Paper is available here:  
-
-[Download White Paper (PDF)](./ON_WP_Vers1.pdf)
-
----
-
-## 🔹 Security Audit
-Independent audit report for the ON Token smart contract:  
-
-[🔒 Download Audit Report (PDF)](./Audit_Report.pdf)
+> 💡 The ON Token is a **non-inflationary, fixed-supply digital asset**  
+> designed to serve as the backbone of the ONLIVE decentralized streaming and content ecosystem.
 
 ---
 
-## 🔹 Usage
-The assets and documents in this repository can be used for:
-- Token Info Update  
-- Wallet integrations (MetaMask, TrustWallet, etc.)  
-- Exchange and listing submissions  
-- Marketing and documentation purposes  
+## 🔹 Official White Paper  
+
+📘 [**Download ON Token White Paper (PDF)**](./ON_WP_Vers1.pdf)  
+
+The White Paper provides an in-depth explanation of:  
+- The **ONLIVE Ecosystem architecture** 
+- **Token utility**, liquidity mechanics, and ecosystem governance  
+- **Technical infrastructure** based on the Polygon blockchain  
+- The **economic model** behind the ON Token  
+- **Risk factors** (dependency on market conditions, Polygon network performance)  
+- The **strategic roadmap** for global expansion  
+
+> **Last Updated:** November 2025  
+> **Next Review:** Q2 2026  
 
 ---
 
-## 🔹 About ON TV
-ON TV is the first decentralized, global crypto television channel, powered by the ON Token.
-It delivers censorship-free access to 24/7 live broadcasting, including real-time cryptocurrency market data, breaking financial news, and educational programs for traders and investors.
-Unlike traditional media, ON TV requires no registration, no subscriptions, and no personal data – it is open, anonymous, and accessible worldwide as the Web3 alternative to Bloomberg TV.
+## 🔹 Verified Security Audit  
+
+🔒 [**Download Cyberscope Smart Contract Audit (PDF)**](./Audit.pdf)  
+
+This audit confirms that the ON Token smart contract:  
+- Fully adheres to ERC-20 standards  
+- Has **no minting or hidden ownership functions**  
+- Contains **no malicious or exploitable code**  
+- Implements **transparent liquidity and fee structures**  
+- Passed all **major vulnerability checks** (overflow, reentrancy, logic flaws)
+
+> The audit strengthens ONLIVE’s commitment to **security, transparency, and long-term credibility**.  
+
+---
+
+## 🔹 Brand Assets  
+
+**Main Logo (High Resolution):**  
+![ON Token Logo](./Logo.PNG)  
+
+**Additional Versions:**  
+- [32x32 Explorer Logo](./ONLIVE_Logo_32x32_from_Image.png) – for wallet & explorer integrations  
+
+> Please use these assets **without modification**.  
+> Authorized use includes wallet listings, block explorers, exchanges, media partners, and documentation.
+
+---
+
+## 🔹 Integration & Usage  
+
+This repository provides verified information for:  
+- ✅ **Wallet integrations:** MetaMask, TrustWallet, and Polygon-compatible apps  
+- 📊 **Exchange listings:** Centralized & decentralized exchanges (DEX/CEX)  
+- 🔗 **Block explorer verification:** PolygonScan, DexTools, DexScreener, GeckoTerminal  
+- 📰 **Media and marketing use:** Articles, press kits, and visual branding  
+- 📄 **Community & educational content:** White Paper citations and investor documents  
+
+> All information and documents are officially maintained by **THE ONLIVE L.L.C.**
+
+---
+
+## 🔹 About ONLIVE  
+
+**ONLIVE** is the first **decentralized streaming and media ecosystem** powered by blockchain technology.  
+Built entirely on the **ON Token**, it delivers a censorship-free environment for creators, viewers, and investors.  
+
+### Key Features  
+- 🎥 **ONLIVE TV** — Decentralized 24/7 live broadcasting channel  
+- 📺 **ONLIVE App** — Web3 streaming platform 
+- 💰 **ON Token Utility** — Payments, donations, unlocks, and governance  
+- 🕊️ **No Registration, No Censorship, No Middlemen**
+
+> ONLIVE merges the principles of **financial freedom, technological innovation, and digital ownership** —  
+> creating a borderless entertainment ecosystem for the Web3 generation.  
+
+---
+
+## 🔹 Governance & Transparency  
+
+ONLIVE operates under the principles of **community-driven transparency**.  
+All major updates — including audits, token info, or governance changes —  
+will be reflected and versioned here in this repository.  
+
+Future roadmap items include:  
+- Community voting for upcoming **CEX listings**  
+- Transparent allocation tracking of liquidity and marketing funds  
+- Public GitHub repositories for **ONLIVE App** and **ONLIVE TV** source documentation  
+
+---
+
+## 🔹 Contact & Resources  
+
+| Platform | Link |
+|-----------|------|
+| 🌐 **Official Website** | [https://onlive.tv](https://ontoken.io) 
+| 💬 **X (Twitter)** | [@OnliveOfficial](https://x.com/OnliveOfficial) |
+| 📩 **Email** | team@ontoken.info |
+| 📘 **White Paper (PDF)** | [ON_WP_Vers1.pdf](./ON_WP_Vers1.pdf) |
+| 🔒 **Audit Report** | [Audit.pdf](./Audit.pdf) |
+
+---
+
+### 🧾 Legal Notice  
+
+The ON Token is a **utility token** that provides access and functionality within the ONLIVE ecosystem.  
+It does **not** represent equity, ownership, or financial securities.  
+Participation in token use or acquisition should be done responsibly and in compliance with applicable laws.  
+
+© 2025 THE ONLIVE L.L.C. — All rights reserved.  
+**ONLIVE – Stream the Future.**
