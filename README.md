@@ -28,7 +28,7 @@ Direct link for explorers:
 ## 🔹 White Paper
 The official ON Token (ONLIVE) White Paper is available here:  
 
-[📄 Download White Paper (PDF)](https://github.com/ONTOKEN/ontoken-assets/raw/main/White-Paper_ON-Token_Version_1.pdf)
+[Download White Paper (PDF)](./ON_WP_Vers1.pdf)
 
 ---
 
