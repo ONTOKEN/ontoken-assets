@@ -118,9 +118,9 @@ Future roadmap items include:
 
 | Platform | Link |
 |-----------|------|
-| 🌐 **Official Website** | [https://onlive.tv](https://ontoken.io) 
-| 💬 **X (Twitter)** | [@OnliveOfficial](https://x.com/OnliveOfficial) |
-| 📩 **Email** | team@ontoken.info |
+| 🌐 **Official Website** | [https://ontoken.io](https://ontoken.io) 
+| 💬 **X (Twitter)** | [@ON_Token](https://x.com/ON_Tokenl) |
+| 📩 **Email** | team@ontoken.info | 
 | 📘 **White Paper (PDF)** | [ON_WP_Vers1.pdf](./ON_WP_Vers1.pdf) |
 | 🔒 **Audit Report** | [Audit.pdf](./Audit.pdf) |
 
