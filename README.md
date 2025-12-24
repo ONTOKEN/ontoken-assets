@@ -20,10 +20,9 @@ and digital entertainment in one unified ecosystem.
 | **Decimals:** | 18 |
 | **Launch Date:** | November 2025 |
 | **Audit Provider:** | Cyberscope (International Smart Contract Auditing) |
-| **Liquidity Lock:** | Locked until January 1, 2126 |
 
 > 💡 The ON Token is a **non-inflationary, fixed-supply digital asset**  
-> designed to serve as the backbone of the ONLIVE decentralized streaming and content ecosystem.
+> designed to serve as the backbone of the ONLIVE decentralized media ecosystem.
 
 ---
 
@@ -62,7 +61,7 @@ This audit confirms that the ON Token smart contract:
 ## 🔹 Brand Assets  
 
 **Main Logo (High Resolution):**  
-![ON Token Logo](./Logo.PNG)  
+![ON Token Logo](./Logo.png)  
 
 **Additional Versions:**  
 - [32x32 Explorer Logo](./ONLIVE_Logo_32x32_from_Image.png) – for wallet & explorer integrations  
@@ -92,7 +91,8 @@ Built entirely on the **ON Token**, it delivers a censorship-free environment fo
 
 ### Key Features  
 - 🎥 **ONLIVE TV** — Decentralized 24/7 live broadcasting channel  
-- 📺 **ONLIVE App** — Web3 streaming platform 
+- 📺 **ONLIVE App** — Web3 streaming platform
+- 📰 **ONLIVE Newspaper** — Modern research and analysis of digital assets
 - 💰 **ON Token Utility** — Payments, donations, unlocks, and governance  
 - 🕊️ **No Registration, No Censorship, No Middlemen**
 
@@ -104,13 +104,8 @@ Built entirely on the **ON Token**, it delivers a censorship-free environment fo
 ## 🔹 Governance & Transparency  
 
 ONLIVE operates under the principles of **community-driven transparency**.  
-All major updates — including audits, token info, or governance changes —  
-will be reflected and versioned here in this repository.  
-
-Future roadmap items include:  
-- Community voting for upcoming **CEX listings**  
-- Transparent allocation tracking of liquidity and marketing funds  
-- Public GitHub repositories for **ONLIVE App** and **ONLIVE TV** source documentation  
+All major updates, including audits, token info, or governance changes —  
+will be reflected and versioned here in this repository.   
 
 ---
 
@@ -120,7 +115,7 @@ Future roadmap items include:
 |-----------|------|
 | 🌐 **Official Website** | [https://ontoken.io](https://ontoken.io) 
 | 💬 **X (Twitter)** | [@ON_Token](https://x.com/ON_Tokenl) |
-| 📩 **Email** | team@ontoken.info | 
+| 📩 **Email** | office@ontoken.io | 
 | 📘 **White Paper (PDF)** | [ON_WP_Vers1.pdf](./ON_WP_Vers1.pdf) |
 | 🔒 **Audit Report** | [Audit.pdf](./Audit.pdf) |
 
@@ -129,8 +124,8 @@ Future roadmap items include:
 ### 🧾 Legal Notice  
 
 The ON Token is a **utility token** that provides access and functionality within the ONLIVE ecosystem.  
-It does **not** represent equity, ownership, or financial securities.  
+It does **not** represent equity, ownership, or financial securities.
 Participation in token use or acquisition should be done responsibly and in compliance with applicable laws.  
 
 © 2025 THE ONLIVE L.L.C. — All rights reserved.  
-**ONLIVE – Stream the Future.**
+**ONLIVE – The Future of Decentralized Media.**
