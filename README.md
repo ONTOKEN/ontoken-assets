@@ -112,12 +112,14 @@ will be reflected and versioned here in this repository.
 ## 🔹 Contact & Resources  
 
 | Platform | Link |
-|-----------|------|
-| 🌐 **Official Website** | [https://ontoken.io](https://ontoken.io) 
-| 💬 **X (Twitter)** | [@ON_Token](https://x.com/ON_Tokenl) |
-| 📩 **Email** | office@ontoken.io | 
-| 📘 **White Paper (PDF)** | [ON_WP_Vers1.pdf](./ON_WP_Vers1.pdf) |
-| 🔒 **Audit Report** | [Audit.pdf](./Audit.pdf) |
+|--------|------|
+🌐 Official Website | https://ontoken.io  
+💬 X (Twitter) | https://x.com/ON_Token  
+💬 Discord | https://discord.gg/S4GSvFBnR3  
+💬 Telegram | https://t.me/ontoken1  
+📩 Email | office@ontoken.io  
+📘 White Paper (PDF) | ON_WP_Vers1.pdf  
+🔒 Audit Report | Audit.pdf  
 
 ---
 
