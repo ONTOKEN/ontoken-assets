@@ -3,8 +3,8 @@
 This repository contains the **official documentation, audited smart contract, and visual brand assets**  
 for the **ON Token (ONLIVE)** — the digital currency that powers the decentralized **ONLIVE ecosystem**.  
 
-ONLIVE represents a new era of Web3 media, combining blockchain technology, decentralized finance,  
-and digital entertainment in one unified ecosystem.  
+ONLIVE empowers people to explore, experience, and monetize real places digitally through decentralized, 
+immersive virtual tours powered by blockchain. 🌍🔗 
 
 ---
 
@@ -22,7 +22,7 @@ and digital entertainment in one unified ecosystem.
 | **Audit Provider:** | Cyberscope (International Smart Contract Auditing) |
 
 > 💡 The ON Token is a **non-inflationary, fixed-supply digital asset**  
-> designed to serve as the backbone of the ONLIVE decentralized media ecosystem.
+> designed to serve as the backbone of the ONLIVE ecosystem.
 
 ---
 
@@ -81,23 +81,6 @@ This repository provides verified information for:
 - 📄 **Community & educational content:** White Paper citations and investor documents  
 
 > All information and documents are officially maintained by **THE ONLIVE L.L.C.**
-
----
-
-## 🔹 About ONLIVE  
-
-**ONLIVE** is the first **decentralized streaming and media ecosystem** powered by blockchain technology.  
-Built entirely on the **ON Token**, it delivers a censorship-free environment for creators, viewers, and investors.  
-
-### Key Features  
-- 🎥 **ONLIVE TV** — Decentralized 24/7 live broadcasting channel  
-- 📺 **ONLIVE App** — Web3 streaming platform
-- 📰 **ONLIVE Newspaper** — Modern research and analysis of digital assets
-- 💰 **ON Token Utility** — Payments, donations, unlocks, and governance  
-- 🕊️ **No Registration, No Censorship, No Middlemen**
-
-> ONLIVE merges the principles of **financial freedom, technological innovation, and digital ownership** —  
-> creating a borderless entertainment ecosystem for the Web3 generation.  
 
 ---
 
