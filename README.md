@@ -1,116 +1,95 @@
-# 🪙 ON Token (ONLIVE) — Official Documentation & Brand Assets  
+<p align="center">
+  <img src="./LOGO.png" width="180" alt="ON Token Logo"/>
+</p>
 
-This repository contains the **official documentation, audited smart contract, and visual brand assets**  
-for the **ON Token (ONLIVE)** — the digital currency that powers the decentralized **ONLIVE ecosystem**.  
-
-ONLIVE empowers people to explore, experience, and monetize real places digitally through decentralized, 
-immersive virtual tours powered by blockchain. 🌍🔗 
+<h1 align="center">ON Token (ONLIVE)</h1>
+<h3 align="center">Powering the Future of Decentralized Media</h3>
 
 ---
 
-## 🔹 Token Overview  
+## 🌍 Vision
+
+The world’s most important places should not be locked behind borders, tickets, or limitations.
+
+ONLIVE is building a decentralized ecosystem that digitizes monuments, stadiums, museums, and cultural landmarks in immersive 3D and VR.
+
+The ON Token is the economic engine powering that vision.
+
+---
+
+## 🔷 Token Overview
 
 | Field | Details |
 |-------|----------|
-| **Token Name:** | ON Token |
-| **Symbol:** | ONLIVE |
-| **Blockchain Network:** | Polygon (ERC-20 Standard) |
-| **Contract Address:** | `0x14F74e11F8d9D04694Ac9D686cfB188a771b31D94` |
-| **Total Supply:** | 3,000,000,000 ON |
-| **Decimals:** | 18 |
-| **Launch Date:** | November 2025 |
-| **Audit Provider:** | Cyberscope (International Smart Contract Auditing) |
-
-> 💡 The ON Token is a **non-inflationary, fixed-supply digital asset**  
-> designed to serve as the backbone of the ONLIVE ecosystem.
+| Token Name | ON Token |
+| Symbol | ONLIVE |
+| Network | Polygon (ERC-20) |
+| Contract | `0x14F74e11F8d9D04694Ac9D686cfB188a771b31D94` |
+| Total Supply | 3,000,000,000 ON |
+| Decimals | 18 |
+| Type | Fixed Supply (Non-Inflationary) |
+| Audit | Cyberscope |
 
 ---
 
-## 🔹 Official White Paper  
+## 🔐 Security & Transparency
 
-📘 [**Download ON Token White Paper (PDF)**](./ON_WP_Vers1.pdf)  
+✔ ERC-20 compliant  
+✔ No minting functions  
+✔ No hidden ownership logic  
+✔ Audited smart contract  
+✔ Transparent token mechanics  
 
-The White Paper provides an in-depth explanation of:  
-- The **ONLIVE Ecosystem architecture** 
-- **Token utility**, liquidity mechanics, and ecosystem governance  
-- **Technical infrastructure** based on the Polygon blockchain  
-- The **economic model** behind the ON Token  
-- **Risk factors** (dependency on market conditions, Polygon network performance)  
-- The **strategic roadmap** for global expansion  
-
-> **Last Updated:** November 2025  
-> **Next Review:** Q2 2026  
+Security and long-term credibility are foundational principles of ONLIVE.
 
 ---
 
-## 🔹 Verified Security Audit  
+## 📘 Documentation
 
-🔒 [**Download Cyberscope Smart Contract Audit (PDF)**](./Audit.pdf)  
-
-This audit confirms that the ON Token smart contract:  
-- Fully adheres to ERC-20 standards  
-- Has **no minting or hidden ownership functions**  
-- Contains **no malicious or exploitable code**  
-- Implements **transparent liquidity and fee structures**  
-- Passed all **major vulnerability checks** (overflow, reentrancy, logic flaws)
-
-> The audit strengthens ONLIVE’s commitment to **security, transparency, and long-term credibility**.  
+- 📄 [White Paper](./ON_WP_Vers1.pdf)  
+- 🔍 [Audit Report](./Audit.pdf)
 
 ---
 
-## 🔹 Brand Assets  
+## 🎥 Official Media Channels
 
-**Main Logo (High Resolution):**  
-![ON Token Logo](./Logo.png)  
-
-**Additional Versions:**  
-- [32x32 Explorer Logo](./ONLIVE_Logo_32x32_from_Image.png) – for wallet & explorer integrations  
-
-> Please use these assets **without modification**.  
-> Authorized use includes wallet listings, block explorers, exchanges, media partners, and documentation.
+- ▶ YouTube: https://www.youtube.com/channel/UCk1JUMWgLTvyhliqCsu1Brg  
+- 🎵 TikTok: https://www.tiktok.com/@on_onlive  
+- 𝕏 (Twitter): https://x.com/ON_Token  
+- 💬 Discord: https://discord.gg/S4GSvFBnR3  
+- 📢 Telegram: https://t.me/ontoken1  
 
 ---
 
-## 🔹 Integration & Usage  
+## 🧠 Integration & Ecosystem
 
-This repository provides verified information for:  
-- ✅ **Wallet integrations:** MetaMask, TrustWallet, and Polygon-compatible apps  
-- 📊 **Exchange listings:** Centralized & decentralized exchanges (DEX/CEX)  
-- 🔗 **Block explorer verification:** PolygonScan, DexTools, DexScreener, GeckoTerminal  
-- 📰 **Media and marketing use:** Articles, press kits, and visual branding  
-- 📄 **Community & educational content:** White Paper citations and investor documents  
+The ON Token is designed for:
 
-> All information and documents are officially maintained by **THE ONLIVE L.L.C.**
-
----
-
-## 🔹 Governance & Transparency  
-
-ONLIVE operates under the principles of **community-driven transparency**.  
-All major updates, including audits, token info, or governance changes —  
-will be reflected and versioned here in this repository.   
+- Wallet integrations (MetaMask, TrustWallet, Polygon apps)
+- DEX & CEX listings
+- Block explorer verification
+- Media & branding usage
+- ONLIVE platform access
 
 ---
 
-## 🔹 Contact & Resources  
+## 🏛 Governance & Updates
 
-| Platform | Link |
-|--------|------|
-🌐 Official Website | https://ontoken.io  
-💬 X (Twitter) | https://x.com/ON_Token  
-💬 Discord | https://discord.gg/S4GSvFBnR3  
-💬 Telegram | https://t.me/ontoken1  
-📩 Email | office@ontoken.io  
-📘 White Paper (PDF) | [ON_WP_Vers1.pdf](./ON_WP_Vers1.pdf)  
-🔒 Audit Report | [Audit.pdf](./Audit.pdf)  
+All major updates, audits, and structural changes are versioned and documented in this repository.
+
+Transparency is not optional — it is structural.
 
 ---
 
-### 🧾 Legal Notice  
+## ⚖ Legal Notice
 
-The ON Token is a **utility token** that provides access and functionality within the ONLIVE ecosystem.  
-It does **not** represent equity, ownership, or financial securities.
-Participation in token use or acquisition should be done responsibly and in compliance with applicable laws.  
+The ON Token is a utility token providing access and functionality within the ONLIVE ecosystem.
 
-© 2025 THE ONLIVE L.L.C. — All rights reserved.  
-**ONLIVE – The Future of Decentralized Media.**
+It does not represent equity or ownership.
+
+Participation should comply with local regulations.
+
+---
+
+© 2026 THE ONLIVE L.L.C.  
+ONLIVE — The Future of Decentralized Media
