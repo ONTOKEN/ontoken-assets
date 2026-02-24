@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">ON Token (ONLIVE)</h1>
-<h3 align="center"><em>Turn ON the World 🌍🌐</em></h3>
 
 ---
 
