@@ -87,7 +87,7 @@ The ON Token is designed for:
 
 All major updates, audits, structural adjustments, and ecosystem developments are versioned and documented within this repository.
 
-Transparency is structural — not optional.
+Transparency is structural, not optional.
 
 ---
 
@@ -103,5 +103,5 @@ Participation should comply with local regulations and applicable laws.
 
 <p align="center">
 © 2026 THE ONLIVE L.L.C.<br>
-<strong>ONLIVE — The Future of Decentralized Media.</strong>
+<strong>ONLIVE — Turn ON the World 🌍🌐.</strong>
 </p>
