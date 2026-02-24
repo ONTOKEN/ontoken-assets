@@ -53,11 +53,11 @@ Security and long-term credibility are foundational principles of ONLIVE.
 
 ## 🎥 Official Media Channels
 
-- ▶ YouTube: https://www.youtube.com/channel/UCk1JUMWgLTvyhliqCsu1Brg  
-- 🎵 TikTok: https://www.tiktok.com/@on_onlive  
-- 𝕏 (Twitter): https://x.com/ON_Token  
-- 💬 Discord: https://discord.gg/S4GSvFBnR3  
-- 📢 Telegram: https://t.me/ontoken1  
+   ▶ YouTube: https://www.youtube.com/channel/UCk1JUMWgLTvyhliqCsu1Brg  
+  🎵 TikTok: https://www.tiktok.com/@on_onlive  
+   𝕏 (Twitter): https://x.com/ON_Token  
+  💬 Discord: https://discord.gg/S4GSvFBnR3  
+  📢 Telegram: https://t.me/ontoken1  
 
 ---
 
@@ -77,7 +77,7 @@ The ON Token is designed for:
 
 All major updates, audits, and structural changes are versioned and documented in this repository.
 
-Transparency is not optional — it is structural.
+Transparency is not optional, it is structural.
 
 ---
 
