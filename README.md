@@ -16,15 +16,13 @@
 
 ## 🌍 About ONLIVE
 
-ONLIVE is building a digital layer of the real world by making important places, landmarks, cities, museums, stadiums, nature locations, and cultural sites accessible through immersive 360° experiences, virtual reality, and interactive visual content.
+ONLIVE is building a digital layer of the real world by making important places, cities, landmarks, museums, stadiums, nature locations, cultural sites, and unique real-world environments accessible through immersive 360° experiences, virtual reality, and interactive visual content.
 
-The vision of ONLIVE is simple:
+The vision of ONLIVE is to make the world’s most meaningful places digitally accessible to everyone.
 
-> Real-world locations should be digitally accessible to everyone — without borders, unnecessary restrictions, or closed environments.
+ONLIVE is designed as an open visual discovery platform where users can explore real-world locations digitally and where creators can contribute immersive content from around the world.
 
-ONLIVE is designed as an open visual discovery platform where users can explore real places digitally and where creators can contribute immersive content from around the world.
-
-All published ONLIVE tours are intended to be freely accessible. No subscription, premium membership, or token-based payment is required to explore the published experiences.
+All published ONLIVE experiences are intended to be freely accessible. No subscription, premium membership, token-based payment, or wallet connection is required to access published ONLIVE tours.
 
 ---
 
@@ -32,9 +30,11 @@ All published ONLIVE tours are intended to be freely accessible. No subscription
 
 The ON Token is the native utility token of the ONLIVE ecosystem.
 
-ON is designed to support ecosystem participation, contributor recognition, creator rewards, community coordination, and future platform-related utility within the ONLIVE environment.
+ON is designed to support ecosystem participation, creator recognition, contributor rewards, community coordination, and future platform-related utility within the ONLIVE environment.
 
-The ON Token is not designed as an investment product, security token, equity instrument, ownership right, or profit-sharing mechanism. It does not represent any claim against ONLIVE, THE ONLIVE L.L.C., or any related entity.
+The ON Token is not designed as an investment product, security token, equity instrument, ownership right, profit-sharing mechanism, or financial instrument.
+
+The ON Token does not represent any claim against ONLIVE, Kastriot Shabani Consulting L.L.C., or any related person, entity, contributor, developer, or service provider.
 
 The ON Token is not required to access public ONLIVE tours.
 
@@ -64,42 +64,47 @@ The ON Token is intended to support the ONLIVE ecosystem in the following areas:
 - Creator and contributor rewards
 - Community participation
 - Ecosystem coordination
+- Recognition of valuable immersive content contributions
 - Platform-related utility
-- Recognition of valuable content contributions
-- Future integration with ONLIVE-related applications and tools
+- Awareness and ecosystem development
+- Future integrations with ONLIVE-related applications and tools
 
-ON is a utility token within the ONLIVE ecosystem and should not be understood as a financial investment or speculative product.
+ON is a utility token within the ONLIVE ecosystem and should not be understood as a financial investment, speculative product, security, or claim to future value.
+
+Holding ON does not provide equity, ownership rights, voting rights in a company, profit participation, dividends, revenue share, management rights, or any entitlement to financial return.
 
 ---
 
 ## 📊 Token Allocation
 
-The ON Token supply is structured to support long-term ecosystem development, decentralized accessibility, and contributor participation.
+The ON Token supply is structured to support long-term ecosystem development, decentralized accessibility, creator participation, and community-oriented distribution.
 
 | Allocation Category | Intended Share | Purpose |
 |---|---:|---|
 | Community, Contributors, Ecosystem and Market Distribution | Approx. 90% | Intended for ecosystem participation, creator rewards, community distribution, contributor incentives, ecosystem development, awareness activities, and broader market accessibility. |
 | Decentralized Liquidity Provision | Approx. 10% | Intended to support decentralized access to the ON Token through liquidity pools on third-party decentralized exchange infrastructure. |
 
-The allocation structure is intended to support ecosystem growth and accessibility. It does not create any entitlement to profit, revenue, governance rights, equity, or financial return.
+The allocation structure is intended to support ecosystem development and accessibility. It does not create any entitlement to profit, revenue, governance rights, equity, repayment, or financial return.
 
 ---
 
-## 💧 Liquidity & Accessibility
+## 💧 Liquidity & Decentralized Accessibility
 
 The ON Token is deployed on the Polygon network and may be accessible through decentralized exchange infrastructure such as Uniswap.
 
 A decentralized liquidity pool may allow users to exchange ON against POL, the native token of the Polygon network, through third-party decentralized exchange infrastructure.
 
-ONLIVE does not operate a centralized exchange and does not currently pursue centralized exchange listings as a primary objective. Any interaction with decentralized exchanges, liquidity pools, wallets, or blockchain infrastructure is performed at the user’s own responsibility and subject to the risks of decentralized finance and blockchain technology.
+ONLIVE does not operate a centralized exchange and does not currently pursue centralized exchange listings as a primary objective.
 
-This repository does not conduct or facilitate any public token sale, initial coin offering, investment offering, or solicitation to purchase tokens.
+Any interaction with decentralized exchanges, liquidity pools, wallets, smart contracts, blockchain networks, or third-party infrastructure is performed at the user’s own responsibility.
+
+This repository does not conduct, promote, or facilitate any public token sale, initial coin offering, securities offering, investment offering, or solicitation to purchase tokens.
 
 ---
 
 ## 🔐 Security & Transparency
 
-The ON Token has been designed with a focus on transparent token mechanics and long-term technical clarity.
+The ON Token has been designed with a focus on transparent token mechanics and technical clarity.
 
 Key characteristics include:
 
@@ -107,11 +112,11 @@ Key characteristics include:
 - Fixed total supply
 - No additional minting functionality
 - No hidden ownership logic
-- Smart contract audit by Cyberscope
 - Public contract address
+- Smart contract audit documentation
 - Public documentation repository
 
-Transparency is an important principle of the ONLIVE ecosystem. Relevant documentation, token information, official assets, and updates are intended to be documented publicly through this repository and official ONLIVE communication channels.
+Transparency is an important principle of the ONLIVE ecosystem. Relevant documentation, token information, official assets, contract references, and ecosystem updates are intended to be documented publicly through this repository and official ONLIVE communication channels.
 
 ---
 
@@ -122,13 +127,15 @@ The following documents are available in this repository:
 - [White Paper](ON_WP_Vers1.pdf)
 - [Audit Report](Audit.pdf)
 
-These documents are provided for informational and transparency purposes only. They may be updated over time to reflect technical, operational, ecosystem, or regulatory developments.
+These documents are provided for informational and transparency purposes only.
+
+They may be updated, replaced, or supplemented over time to reflect technical, operational, ecosystem, legal, or regulatory developments.
 
 ---
 
 ## 🏗️ Repository Purpose
 
-This repository serves as the official public asset and documentation repository for the ON Token and ONLIVE ecosystem.
+This repository serves as the official public asset and documentation repository for the ON Token and the ONLIVE ecosystem.
 
 It may include:
 
@@ -140,7 +147,7 @@ It may include:
 - Public ecosystem updates
 - Official links and contract addresses
 
-This repository is not a trading platform, investment platform, public sale platform, or financial promotion channel.
+This repository is not a trading platform, investment platform, financial promotion channel, token sale platform, exchange, broker, custodian, or investment service.
 
 ---
 
@@ -155,34 +162,86 @@ This repository is not a trading platform, investment platform, public sale plat
 | Discord | https://discord.gg/S4GSvFBnR3 |
 | X / Twitter | https://x.com/ON_Token |
 
+Always verify official links through trusted ONLIVE or ON Token sources before interacting with any token, wallet, decentralized exchange, smart contract, or third-party service.
+
 ---
 
-## 📄 Contract Address
+## 📄 Official Contract Address
 
 | Network | Contract Address |
 |---|---|
 | Polygon PoS | `0x14F74e11F0d9D469A4c9D686cfB18a771b31D94f` |
 
-Always verify the contract address through official ONLIVE or ON Token sources before interacting with any token, wallet, decentralized exchange, or smart contract.
+Users should always verify the contract address through official ONLIVE or ON Token sources before interacting with the ON Token.
+
+Incorrect contract addresses, fake tokens, phishing websites, imitation social media accounts, and malicious third-party services may result in a permanent loss of funds or assets.
+
+---
+
+## 🌐 Third-Party Infrastructure
+
+The ONLIVE ecosystem and the ON Token may interact with or depend on third-party infrastructure, including but not limited to:
+
+- Polygon network infrastructure
+- Wallet applications
+- Block explorers
+- Decentralized exchanges
+- Liquidity pools
+- Smart contract interfaces
+- Hosting, storage, and web infrastructure
+- External communication platforms
+
+These services are independent third-party systems. ONLIVE and Kastriot Shabani Consulting L.L.C. do not control all third-party services, user interfaces, market conditions, network conditions, liquidity availability, blockchain fees, wallet behavior, or decentralized exchange functionality.
+
+Users are responsible for understanding the risks associated with using blockchain-based systems and third-party infrastructure.
 
 ---
 
 ## ⚖️ Legal Notice
 
-The ON Token is a blockchain-based utility token intended to support functionality, participation, and contributor-related mechanisms within the ONLIVE ecosystem.
+The ON Token is a blockchain-based utility token intended to support functionality, participation, creator-related mechanisms, contributor recognition, and ecosystem coordination within the ONLIVE ecosystem.
 
-The ON Token does not represent equity, ownership, voting rights in a company, debt, profit participation, dividends, revenue share, securities, financial instruments, or any claim against ONLIVE, THE ONLIVE L.L.C., or any related party.
+The ON Token does not represent equity, ownership, voting rights in a company, debt, profit participation, dividends, revenue share, repayment rights, securities, transferable securities, financial instruments, investment products, or any claim against ONLIVE, Kastriot Shabani Consulting L.L.C., or any related party.
 
-Nothing in this repository, the white paper, the audit report, or any related communication constitutes investment advice, financial advice, legal advice, tax advice, a public offering, a solicitation to purchase tokens, or a recommendation to acquire, hold, sell, or trade any digital asset.
+Nothing in this repository, the white paper, the audit report, official websites, social media channels, community channels, or any related communication constitutes investment advice, financial advice, legal advice, tax advice, a public offering, a solicitation to purchase tokens, or a recommendation to acquire, hold, sell, trade, or otherwise interact with any digital asset.
 
-Digital assets, blockchain technology, decentralized exchanges, liquidity pools, and smart contracts involve significant risks, including technical risks, market risks, liquidity risks, regulatory risks, third-party infrastructure risks, and potential loss of value.
+Digital assets, blockchain technology, decentralized exchanges, liquidity pools, wallets, smart contracts, and third-party blockchain infrastructure involve significant risks. These risks may include technical risks, smart contract risks, liquidity risks, market risks, volatility risks, regulatory risks, cybersecurity risks, operational risks, third-party infrastructure risks, and the potential loss of value or assets.
 
-Users are solely responsible for complying with applicable laws and regulations in their own jurisdiction and should conduct their own independent review before interacting with any blockchain-based asset or decentralized application.
+Users are solely responsible for complying with applicable laws and regulations in their own jurisdiction and should conduct their own independent review before interacting with any blockchain-based asset, wallet, decentralized exchange, liquidity pool, smart contract, or decentralized application.
+
+Access to this repository or any ONLIVE-related information does not imply that the ON Token is available, suitable, lawful, or appropriate for any person in any jurisdiction.
+
+---
+
+## 🛡️ No Public Token Sale
+
+This repository does not announce, conduct, promote, or facilitate a public token sale.
+
+No information contained in this repository should be interpreted as an offer to sell, a solicitation to buy, or an invitation to participate in any token sale, securities offering, investment scheme, or regulated financial activity.
+
+The ON Token may be technically accessible through third-party decentralized exchange infrastructure. Such accessibility does not constitute an offer, sale, recommendation, or financial promotion by ONLIVE or Kastriot Shabani Consulting L.L.C.
+
+---
+
+## 🧾 Important User Responsibility
+
+Before interacting with ON or any related blockchain infrastructure, users should independently verify:
+
+- The official contract address
+- The correct network
+- The legitimacy of the website or interface used
+- The risks of decentralized exchanges and liquidity pools
+- The legal and tax implications in their jurisdiction
+- The security of their own wallet and private keys
+
+ONLIVE and Kastriot Shabani Consulting L.L.C. do not provide custody, wallet recovery, financial advice, investment advice, or tax advice.
 
 ---
 
 ## © Copyright
 
-© 2026 THE ONLIVE L.L.C.
+© 2026 Kastriot Shabani Consulting L.L.C.
 
-All logos, branding elements, visual assets, text, and documentation contained in this repository are provided for informational and ecosystem-related purposes and remain subject to the rights of their respective owners.
+ONLIVE, the ON Token, related logos, branding elements, visual assets, text, documentation, and ecosystem materials are provided for informational, technical, branding, and ecosystem-related purposes.
+
+All rights remain reserved by Kastriot Shabani Consulting L.L.C. or their respective rights holders, unless expressly stated otherwise.
